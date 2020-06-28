@@ -1,0 +1,19 @@
+.first-container {
+    background-color: #f1ebbb;
+    padding: 100px 0;
+}
+
+.first-container h2 {
+    font-family: 'Merriweather', serif;
+    color: #b5076b;
+    padding: 10px 0;
+}
+
+.second-container {
+    margin: 100px 0;
+}
+
+.contact-me {
+    background-color: #eeeeee;
+    padding: 50px 0;
+}
